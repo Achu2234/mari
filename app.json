@@ -1,11 +1,6 @@
-{
-   "addons": [
-      {
-         "options": {
-            "version": "12"
-         },
-         "plan": "heroku-postgresql"
-      }
+
+  
+      
    ],
    "description": "Telegram group management bot.",
    "env": {
@@ -110,7 +105,7 @@
       "manager",
       "bot"
    ],
-   "logo": https://telegra.ph/file/1e3f828b4d4dfaef99bf4.png"",
+   "logo": "https://telegra.ph/file/1e3f828b4d4dfaef99bf4.png",
    "name": "Doramon group mangementbot",
    "repository": "https://github.com/leobrownlee/phantom"
 }
