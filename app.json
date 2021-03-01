@@ -2,7 +2,7 @@
       }
    {
    "description": "Telegram group management bot": [
-   "env": {
+   "env" {
  }
    {,
       "ALLOW_EXCL": {
@@ -100,7 +100,7 @@
          "value": "123"
       }
    },
-   "keywords": [
+   "keywords" [
       "telegram",
       "group",
       "manager",
