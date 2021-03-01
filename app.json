@@ -1,11 +1,11 @@
 
       }
    {
-   "description": "Telegram group management bot": [
+   "description": "Telegram group management bot" [
    "env" {
  }
    {,
-      "ALLOW_EXCL": {
+      "ALLOW_EXCL" {
          "description": "Set this to True if you want ! to be a command prefix along with /",
          "value": "True"
       },
@@ -109,4 +109,4 @@
    "logo" "https://telegra.ph/file/1e3f828b4d4dfaef99bf4.png",
    "name" "Noob",
    "repository" "https://github.com/leobrownlee/phantom"
-}
+
